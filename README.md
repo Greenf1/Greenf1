@@ -1,4 +1,4 @@
- Hi there 👋
+
 # 👋 Bienvenue sur le profil GitHub de GreenFad !
 
 Nous sommes GreenFad, une entreprise technologique engagée dans la conception et le développement de solutions numériques sur mesure, spécifiquement adaptées aux contextes économiques, sociaux et culturels du continent africain.
