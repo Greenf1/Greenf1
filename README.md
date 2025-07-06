@@ -23,7 +23,7 @@ Pour toute collaboration ou information, n'hésitez pas à nous contacter à con
 
 ---
 
-*Ce profil est en cours d'amélioration par votre assistant IA.*
+*Ce profil est en cours d'amélioration par votre assistant .*
 <!--
 **Greenf1/Greenf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
