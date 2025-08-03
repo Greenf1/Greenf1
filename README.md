@@ -15,14 +15,11 @@ Améliorer l'efficacité, l'accessibilité et la durabilité des services dans d
 
 ## Nos Projets Phares
 
-(Cette section sera complétée avec des liens vers vos projets une fois que j'aurai accès à vos dépôts et que nous aurons identifié ceux à mettre en avant.)
-
 ## Contact
 
 Pour toute collaboration ou information, n'hésitez pas à nous contacter à contact@greenfad.tech.
 
----
-
+--
 *Ce profil est en cours d'amélioration par votre assistant .*
 <!--
 **Greenf1/Greenf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
