@@ -20,7 +20,7 @@ Améliorer l'efficacité, l'accessibilité et la durabilité des services dans d
 Pour toute collaboration ou information, n'hésitez pas à nous contacter à contact@greenfad.tech.
 
 --
-*Ce profil est en cours d'amélioration par votre assistant .*
+*Ce profil est en cours d'amélioration .*
 <!--
 **Greenf1/Greenf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
